@@ -4,7 +4,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>Re-make</h1>
+        <h1>Re-maker</h1>
+        <p>A react app for makers.</p>
       </div>
     );
   }
