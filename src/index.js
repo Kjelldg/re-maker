@@ -4,7 +4,6 @@ import 'semantic-ui-css/semantic.min.css';
 import "./index.css";
 import App from "./app/layout/App";
 import registerServiceWorker from "./registerServiceWorker";
-
 import Image from "/uDemy/Build an app with React, Redux/remake/src/app/layout/Backgrounds/mavica.jpg"; // Import using relative path
 
 const styles = {
