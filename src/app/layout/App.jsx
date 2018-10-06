@@ -8,6 +8,12 @@ class App extends Component {
     return <div className="App">
         <h1>Re-maker</h1>
         <p>A react app for makers.</p>
+      <button class="ui primary button">
+        Save
+      </button>
+      <button class="ui button">
+        Discard
+      </button>
         <HeaderTest />
         <button className="ui button">Semantic UI button test</button>
         <button className="ui icon button">
